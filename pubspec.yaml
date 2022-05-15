@@ -1,0 +1,45 @@
+name: tolulope
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.16.2 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  widgetbook: 2.0.5-beta
+  auto_size_text: 3.0.0
+  flutter_svg: ^1.0.3
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/tolulope/assets/images/path.svg
+    - packages/tolulope/assets/images/emptybar.svg
+    - packages/tolulope/assets/images/rectangle23.svg
+    - packages/tolulope/assets/images/rectangle21stroke.svg
+    - packages/tolulope/assets/images/941.svg
+    - packages/tolulope/assets/images/vigoplace3.png
+    - packages/tolulope/assets/images/rectangle30.png
+    - packages/tolulope/assets/images/rectangle34.png
+    - packages/tolulope/assets/images/rectangle32.png
+    - packages/tolulope/assets/images/rectangle33.png
+    - packages/tolulope/assets/images/rectangle31.png
+    - packages/tolulope/assets/images/rectangle39.png
+    - packages/tolulope/assets/images/rectangle35.png
+    - packages/tolulope/assets/images/rectangle38.png
+    - packages/tolulope/assets/images/rectangle36.png
+    - packages/tolulope/assets/images/vector.svg
+    - packages/tolulope/assets/images/vigoplace2.png
+    - packages/tolulope/assets/images/profile.svg
+    - packages/tolulope/assets/images/vector3.svg
+    - packages/tolulope/assets/images/frame237670.svg
+    - packages/tolulope/assets/images/vector2.svg
+    - packages/tolulope/assets/images/stroke3.svg
+    - packages/tolulope/assets/images/stroke1.svg
+    - packages/tolulope/assets/images/unsplashyhswy6uqvk.png
+    - packages/tolulope/assets/images/frame50.svg
